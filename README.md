@@ -1,10 +1,10 @@
-# MIGD UQAM : resume cours ML
+# MIGD UQAM : resume cours ML 🎓
 
 Un repo qui contiendra un document markdown qui resume ce quel'on a appris durant les cours d'apprentissage automatique que nous avons suivi a l'uqam. Ceux ci sont inf7710, inf8100 et inf7370.
 
-## inf7710
+## INF7710 ⛏️
 
-## inf8100
+## INF8100 📊
 
 Le cours INF8100, intitulé concepts et techniques en fouille et exploration de données. Ce cours est une introduction générale à la science des données, qui couvre également les  mathématiques nécessaire à l'étude de ce sujet.
 
@@ -24,7 +24,7 @@ Nous avons ensuite abordé la régression, une technique statistique qui permet 
 
 Les notions abordées ensuite sont celles de la réduction de la dimensionnalité et celle du partitionnement. Nous avons notamment traité le sujet de l’analyse en composante principale (PCA/ACP) et de la LDA (linear discriminant analysis). Ensuite, nous avons appris les algorithmes k-means, les mélanges gaussiens et l’algorithme Expectation Maximization. Nous avons donc été introduits à différents algorithmes centraux de l’apprentissage non-supervise. 
 
-## inf7370
+## INF7370 🤖
 
 Le cours INF7710, intitulé apprentissage automatique, est un cours d’introduction générale à l’apprentissage automatique, couvrant la majorité des sujets du domaine. Le cours nous a permis à la fois de mettre en pratique des algorithmes d'apprentissage automatique, mais aussi d'apprendre les mathématiques et les algorithmes derrière différents modèles.
 
