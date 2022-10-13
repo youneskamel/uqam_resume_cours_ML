@@ -25,3 +25,33 @@ Nous avons ensuite abordé la régression, une technique statistique qui permet 
 Les notions abordées ensuite sont celles de la réduction de la dimensionnalité et celle du partitionnement. Nous avons notamment traité le sujet de l’analyse en composante principale (PCA/ACP) et de la LDA (linear discriminant analysis). Ensuite, nous avons appris les algorithmes k-means, les mélanges gaussiens et l’algorithme Expectation Maximization. Nous avons donc été introduits à différents algorithmes centraux de l’apprentissage non-supervise. 
 
 ## inf7370
+
+Le cours INF7710, intitulé apprentissage automatique, est un cours d’introduction générale à l’apprentissage automatique, couvrant la majorité des sujets du domaine. Le cours nous a permis à la fois de mettre en pratique des algorithmes d'apprentissage automatique, mais aussi d'apprendre les mathématiques et les algorithmes derrière différents modèles.
+
+Le premier cours commence par définir l'apprentissage automatique, soit ; 
+
+“ll s’agit de concevoir des algorithmes capables, à partir d’un nombre important d’exemples, d’en assimiler la nature afin de pouvoir appliquer ce qu’ils ont ainsi appris aux cas futurs.”
+
+En d’autres termes, l’apprentissage automatique est un ensemble de techniques permettant à un programme de réaliser un tâche et de s'y améliorer sans être programmé explicitement. Nous avons également abordé la distinction entre l’apprentissage supervisé et non-supervisé (c.a.d. la présence d'étiquettes ou labels).
+
+Le deuxième cours fut une introduction aux arbres de décision. Ce terme caractérise un type de modèle d’apprentissage automatique dont la représentation est une structure de données d’arbre. Ces arbres permettent de prendre des décisions en répondant aux questions contenues dans leurs feuilles et en suivant la branche associée à la réponse. Nous avons notamment vu l'algorithme de Hunt pour entraîner les arbres de décision.
+
+Le troisième cours porta sur l'apprentissage d’ensembles. Cette technique consiste à apprendre différents modèles d’apprentissage automatique et à les combiner afin d’obtenir une meilleure performance. Il existe notamment, le bagging, le pasting et le boosting, différentes formes d’apprentissage d’ensemble.
+
+Ensuite, nous avons abordé la classification bayésienne naïve. Cette technique permet de faire de la classification en utilisant la formule de Bayes :
+
+
+P(A|B) = P(B|A).P(A) / P(B) 
+
+Nous avons ensuite expliqué les réseaux bayésiens. Ces réseaux permettent de représenter les probabilités conditionnelles de divers événements de façon compacte. En utilisant, également la formule de Bayes, ils permettent de faire de la prédiction et de la classification.
+
+Les séances qui suivirent furent dédiées aux réseaux de neurones. Les réseaux de neurones artificiels sont un type de modèle d’apprentissage automatique dont la représentation est un réseau inspiré vaguement des neurones humains.
+
+Nous avons vu comment la rétro-propagation de Hinton est utilisée pour entraîner les réseaux de neurones en utilisant le gradient de l’erreur pour mesurer à quel point chaque neurone est responsable de l’erreur. 
+
+Cette approche a néanmoins un point faible, le problème du gradient disparaissant. Nous avons abordé les différents types d'initialisation ainsi que les différentes fonctions d'activation qui permettent de pallier ce problème. Nous avons également traité différents optimiseurs tels que adagrad, nesterov accelerated gradient ou ADAM. 
+
+Nous avons ensuite vu différentes architectures de réseaux de neurones telles que les auto encodeurs, les réseaux de neurones convolutifs et les réseaux de neurones récurrents.
+
+Le cours s’est terminé en abordant les thèmes des SVM et enfin du partitionnement, une technique d’apprentissage supervisé.
+Pour les étudiants de la MIGD visant un profil orienté ML engineer, ou Data scientist oriente ML, ce cours fut probablement le plus important de notre formation. Nous sommes reconnaissant qu’il ait été traité par un prof compétent et de façon rigoureuse et profonde.
