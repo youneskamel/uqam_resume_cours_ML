@@ -4,6 +4,6 @@ Un repo qui contiendra un document markdown qui resume ce quel'on a appris duran
 
 ## inf7710
 
-##inf8100
+## inf8100
 
-##inf7370
+## inf7370
