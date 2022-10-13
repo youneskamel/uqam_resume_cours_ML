@@ -3,6 +3,15 @@
 Un repo qui contiendra un document markdown qui resume ce quel'on a appris durant les cours d'apprentissage automatique que nous avons suivi a l'uqam. Ceux ci sont inf7710, inf8100 et inf7370.
 
 ## INF7710 ⛏️
+ 
+Le cours se focalise sur la découverte d’associations et de motifs fréquents qui est une discipline fondamentale de la fouille de données.  
+ 
+Le but du cours est de permettre à l’étudiant de se familiariser avec la fouille de données en général à travers l’étude plus approfondie de la fouille d’associations.  
+Dans un premier temps, le professeur nous a expliqué la grande polémique autour du concept ‘fouille de donnée’ depuis son apparition, cela nous a permis d’appréhender le concept et ses différentes terminologies. 
+Ensuite nous avons été  initiés à la recherche à travers la rédaction d'un rapport sur un sujet d'actualité. Le premier article rédigé fut la découverte de connaissances afin  d’approfondir la maîtrise de certains concepts fondamentaux en science de données. 
+Par la suite, nous avons étudié en profondeur les notions et algorithmes de base de la fouille d’associations à savoir: la découverte de motifs fréquents, base de transaction , itemset, support absolu, support relatif, motifs maximaux, motifs fermes , motifs non dérivables, itemset fréquent, itemset non fréquent,  et règles d'association. Les algorithmes abordés furent :l’algorithme d’apriori, Apriori Inverse, Fp-Growth, Eclat  et gSpan. 
+Pour consolider les notions apprises surtout les concepts mathématiques comme  la théorie des treillis et des ordres partiels, nous avons rédigé un deuxième article  d’ordre technique dont nous avons exposé le contenu  à l’ensemble des étudiants. 
+Enfin, le projet de fin de session visait à couvrir les différents concepts importants  de la fouille d'associations dont nous n’avons pas pu aborder par manque de temps. 
 
 ## INF8100 📊
 
