@@ -1,0 +1,21 @@
+En premier temps, nous avons abordé les concepts de base et une vue d'ensemble sur les sciences de données. 
+Ensuite, on a essayé de répondre aux questions suivantes: 
+• Pourquoi la science des données ? 
+• C’est quoi la science des données ? 
+• Quel type de données peut-on exploiter ? 
+• Quelles sont les étapes d’un projet en science de données ? 
+•Quelles sont les applications de la science des données ? 
+En deuxième temps, nous somme rentrer en profondeur dans les notions mathématiques plus précisément l’algèbre linéaire ou 
+nous avons  effleuré les espaces vectoriels, sous-espaces vectoriels, fonctions linéaires matrices indépendance, base, dimension, 
+changement de base ,espace euclidien, norme, angle, produit scalaire, etc.. 
+Dans la même perspective, nous avons vu l’utilité des matrices dans la science de données par le biais de certains concepts comme la factorisation 
+de matrices ,procédure de Gram Schmidt, factorisation QR, valeurs propres, vecteurs propres, et factorisation SVD. Des applications suivirent pour 
+permettre de bien assimiler les différents concepts évoqués. 
+Pour pouvoir interpréter et analyser les résultats, nous utilisâmes la statistique dans laquelle nous avons touché les études observationnelles et 
+étude expérimentale puis l’analyse univariée et analyse bivariée ainsi, nous abordâmes la probabilité conditionnelle et le théorème de Bayes pour donner
+de la crédibilité aux résultats. Dans l’inférence statistique, nous étions plus focalisés sur la distribution normale et la distribution binomiale. 
+Le but étant de nous faire voire l’importance de l’utilisation des Théorèmes centrale limite, Intervalle de confiance et test d’hypothèses pour 
+la prise de décision en se basant sur la statistique. L’applicabilité de tous ces concepts est liée aux données d’où l’importance du recueil de données 
+réelles par le ratissage du Web et l’utilisation des APIs. Sachant que la qualité des données est d’une importance capitale pour la réussite de tout projet 
+de science de donnée du coup, nous avons abordé le nettoyage, le codage et la normalisation des données dans le but d’assurer la qualité de données. 
+Enfin nous avons visualisé les données pour nous faire une idée sur la qualité et le comportement de celle-ci.
